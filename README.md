@@ -1,9 +1,9 @@
-# desafio-pratico-gerenciador-livraria
-Rocketseat - C#
+# Rocketseat - TRILHA C#
 
-# Desafio prático - Gestão de Livraria
 
-## Introdução
+## Desafio prático - Gestão de Livraria
+
+### Introdução
 
 Faaaaala, Dev! Chegou a hora de por a mão na massa e aplicar de forma prática os conceitos aprendidos nesse módulo! 🚀
 
@@ -17,21 +17,19 @@ Bons estudos e boa prática! 💜
 
 ---
 
-### Descrição
+#### Descrição
 
 Seu principal objetivo é desenvolver uma API para uma Livraria online. 
 O sistema deve permitir que o usuário crie, visualize, edite e exclua livros.
 
 Bora para os requisitos desse desafio? 🚀
 
-### Requisitos
+#### Requisitos
 
 ---
 
 <aside>
 Dados e campos sugeridos
-
-</aside>
 
 Um livro deverá ter os seguintes campos:
 
@@ -42,6 +40,7 @@ Um livro deverá ter os seguintes campos:
 *Você pode definir gêneros como* `ficção`, `romance`, `mistério`*, por exemplo;*
 - Um preço;
 - Quantidade em estoque.
+</aside>
 
 ---
 
